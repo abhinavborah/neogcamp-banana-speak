@@ -18,7 +18,6 @@ function errorHandler(error){
 console.log(txtInput)
 
 function clickEventHandler() {
-    // outputDiv.innerText='asdfasdfasdfasdf ' + txtInput.value;
     var inputText =txtInput.value; //taking input
 
     // calling server for processing
